@@ -1,6 +1,8 @@
 **ПРИВЕТ Я СТРАШНЫЙ КОТ**
 
+# ЧЕ Я ЮЗАЮ СТРАШНО
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 # МОИ ЯЗЫКИ АААААААААААААААААА СТРАШНО
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=vision-glow&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact)](https://github.com/sscarycat/github-readme-stats)
