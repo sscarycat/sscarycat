@@ -1,4 +1,4 @@
-**ПРИВЕТ Я СТРАШНЫЙ КОТ**
+# privet ya scarycat
 
-# ЧЕ Я ЮЗАЮ СТРАШНО
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+# MaIn LaNgULaGe
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
