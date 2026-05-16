@@ -3,4 +3,4 @@
 
 # МОИ ЯЗЫКИ АААААААААААААААААА СТРАШНО
 
-[![топчик топчик](https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=vision-glow&count_private=true&include_all_commits=true" />
