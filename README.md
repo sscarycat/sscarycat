@@ -1,10 +1,6 @@
 **ПРИВЕТ Я СТРАШНЫЙ КОТ**
 
 
+# МОИ ЯЗЫКИ АААААААААААААААААА СТРАШНО
 
----
-
-<img width="200" height="194" alt="image" src="https://github.com/user-attachments/assets/e23024ff-c099-4743-ad85-78a0614d8544" />
-
-
----
+[![топчик топчик](https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
