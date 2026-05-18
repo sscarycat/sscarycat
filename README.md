@@ -4,7 +4,7 @@
 
 # praektiki
 
-### [SCARYENGINE](https://github.com/sscarycat/SCARYENGINE)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=sscarycat&repo=SCARYENGINE&theme=dark)
 > *"я не знаю зачем оно существует но оно существует."*
 
 # MaIn LaNgULaGe
