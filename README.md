@@ -5,11 +5,11 @@
 
 # praektiki
 
-### [SCARYENGINE](https://github.com/thescarycat/SCARYENGINE)
+### [SCARYENGINE](https://github.com/sscarycat/SCARYENGINE)
 > *"я не знаю зачем оно существует но оно существует."*
 
 
 
 # MaIn LaNgULaGe
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thescarycat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff)
