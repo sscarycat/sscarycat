@@ -12,4 +12,6 @@
 
 # MaIn LaNgULaGe
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sscarycat&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sscarycat&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sscarycat&layout=compact&theme=dark)
